@@ -6,7 +6,7 @@ This tutorial will introduce the use of Python for statistical data analysis, us
 
 ## Outline
 
-### [Introduction to Pandas][1]
+### Introduction to Pandas
 
 * Importing data
 * Series and DataFrame objects
@@ -17,7 +17,7 @@ This tutorial will introduce the use of Python for statistical data analysis, us
 * Missing data
 * Data summarization
 
-### [Data Wrangling with Pandas][2]
+### Data Wrangling with Pandas
 
 * Date/time types
 * Merging and joining DataFrame objects
@@ -28,7 +28,7 @@ This tutorial will introduce the use of Python for statistical data analysis, us
 * Permutation and sampling
 * Data aggregation and GroupBy operations
 
-### [Plotting and Visualization][3]
+### Plotting and Visualization
 
 * Plotting in Pandas vs Matplotlib
 * Bar plots
@@ -38,7 +38,7 @@ This tutorial will introduce the use of Python for statistical data analysis, us
 * Scatterplots
 * Trellis plots
 
-### [Statistical Data Modeling][4]
+### Statistical Data Modeling
 
 * Statistical modeling
 * Fitting data to probability distributions
