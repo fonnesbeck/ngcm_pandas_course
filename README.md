@@ -51,6 +51,10 @@ Skipper Seabold (Civis Analytics)
 * Model selection
 * Bootstrapping
 
+## Prerequisites
+
+This is an intermediate-level computing course, so some previous experience with Python is required. Some undergraduate-level statistics is also recommended.
+
 ## Software Requirements
 
 Python 3.4 or newer. We recommend installing the free Anaconda distribution of Python, [available from Continuum Analytics](https://store.continuum.io/cshop/anaconda/).
