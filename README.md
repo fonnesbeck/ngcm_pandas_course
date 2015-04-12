@@ -6,7 +6,7 @@ This tutorial will introduce the use of Python for statistical data analysis, us
 
 ## Instructors
 
-Christopher Fonnesbeck (Vanderbilt University)  
+Christopher Fonnesbeck (Vanderbilt University)
 Skipper Seabold (Civis Analytics)
 
 ## Outline
@@ -14,7 +14,9 @@ Skipper Seabold (Civis Analytics)
 ### Introduction to Pandas
 
 * Importing data
+* Setting options
 * Series and DataFrame objects
+* Categorical data
 * Indexing, data selection and subsetting
 * Hierarchical indexing
 * Reading and writing files
@@ -27,11 +29,15 @@ Skipper Seabold (Civis Analytics)
 * Date/time types
 * Merging and joining DataFrame objects
 * Concatenation
+* Text data operations
 * Reshaping DataFrame objects
 * Pivoting
 * Data transformation
+* Rolling and window operations
 * Permutation and sampling
 * Data aggregation and GroupBy operations
+* Out-of-core workflows
+* Performance
 
 ### Plotting and Visualization
 
@@ -45,11 +51,13 @@ Skipper Seabold (Civis Analytics)
 
 ### Statistical Data Modeling
 
+* Statistical operations in pandas
 * Statistical modeling
 * Fitting data to probability distributions
 * Fitting regression models
 * Model selection
 * Bootstrapping
+* Working with R
 
 ## Prerequisites
 
