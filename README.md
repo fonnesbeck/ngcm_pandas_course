@@ -13,6 +13,8 @@ Skipper Seabold (Civis Analytics)
 
 ### Introduction to Pandas
 
+#### June 22, 09:30 - 13:00
+
 * Importing data
 * Setting options
 * Series and DataFrame objects
@@ -25,6 +27,8 @@ Skipper Seabold (Civis Analytics)
 * Data summarization
 
 ### Data Wrangling with Pandas
+
+#### June 22, 14:30 - 17:30
 
 * Date/time types
 * Merging and joining DataFrame objects
@@ -41,6 +45,8 @@ Skipper Seabold (Civis Analytics)
 
 ### Plotting and Visualization
 
+#### June 23, 09:30 - 13:00
+
 * Plotting in Pandas vs Matplotlib
 * Bar plots
 * Histograms
@@ -50,6 +56,8 @@ Skipper Seabold (Civis Analytics)
 * Trellis plots
 
 ### Statistical Data Modeling
+
+#### June 23, 14:30 - 17:30
 
 * Statistical operations in pandas
 * Statistical modeling
