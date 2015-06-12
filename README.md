@@ -11,15 +11,19 @@ Skipper Seabold (Civis Analytics)
 
 ## Outline
 
-### Introduction to Pandas
+### Introduction to NumPy and Pandas
 
 #### June 22, 09:30 - 13:00
 
+* NumPy arrays and indexing
+* Multidimensional arrays
+* Array methods and functions
+* Series and DataFrame objects
 * Importing data
 * Setting options
-* Series and DataFrame objects
 * Categorical data
 * Indexing, data selection and subsetting
+* `where` and `query`
 * Hierarchical indexing
 * Reading and writing files
 * Sorting and ranking
