@@ -3,3 +3,5 @@ numpy>=1.9
 pandas>=1.6
 scipy
 matplotlib
+scikit-learn
+seaborn
