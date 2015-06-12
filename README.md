@@ -67,9 +67,10 @@ Skipper Seabold (Civis Analytics)
 * Statistical modeling
 * Fitting data to probability distributions
 * Fitting regression models
+* Non-linear regression
 * Model selection
 * Bootstrapping
-* Working with R
+* Working with missing data
 
 ## Prerequisites
 
