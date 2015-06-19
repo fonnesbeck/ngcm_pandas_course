@@ -6,3 +6,5 @@ matplotlib
 scikit-learn
 seaborn
 patsy
+numexpr
+bottleneck
