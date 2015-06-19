@@ -1,6 +1,6 @@
 ipython>=3.0
 numpy>=1.9
-pandas>=1.6
+pandas>=0.16.2
 scipy
 matplotlib
 scikit-learn
