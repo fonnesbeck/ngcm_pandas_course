@@ -20,8 +20,8 @@ def clean_fec(fec, parse_dates=False):
                             contb_receipt_amt='amount',
                             contb_receipt_dt='date',
                             contbr_occupation='occupation',
-                            contbr_name='name',
-                            cand_name='candidate',
+                            contbr_nm='name',
+                            cand_nm='candidate',
                             ), inplace=True)
 
     to_replace = {'33': 'FL',
