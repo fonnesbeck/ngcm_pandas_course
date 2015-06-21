@@ -82,12 +82,15 @@ Python 3.4 or newer. We recommend installing the free Anaconda distribution of P
 
 The following packages should be installed on your system:
 
-* NumPy
-* SciPy
-* Pandas
-* Matplotlib
-* IPython
-* PyZMQ
-* Tornado
+* ipython>=3.0
+* numpy>=1.9
+* pandas>=0.16.2
+* scipy
+* matplotlib
+* scikit-learn
+* seaborn
+* patsy
+* numexpr
+* bottleneck
 
 If you have installed Anaconda, these should already be available to you.
