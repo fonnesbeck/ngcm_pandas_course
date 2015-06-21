@@ -8,3 +8,8 @@ seaborn
 patsy
 numexpr
 bottleneck
+xlrd
+jinja2
+tornado
+pyzmq
+jsonschema
