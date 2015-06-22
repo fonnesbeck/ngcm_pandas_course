@@ -92,5 +92,11 @@ The following packages should be installed on your system:
 * patsy
 * numexpr
 * bottleneck
+* xlrd
+* jinja2
+* tornado
+* pyzmq
+* jsonschema
+* mpld3
 
 If you have installed Anaconda, these should already be available to you.
