@@ -100,3 +100,17 @@ The following packages should be installed on your system:
 * mpld3
 
 If you have installed Anaconda, these should already be available to you.
+
+## Getting this repository
+
+```
+git clone https://github.com/fonnesbeck/ngcm_pandas_course.git
+```
+
+Make sure you have the requirements installed. 
+
+    cd ngcm_pandas_course
+
+If using pip, 
+
+    pip install -r requirements.txt
